@@ -1,6 +1,11 @@
 # Review-of-a-review-article---The-recent-trends-in-cyber-security-A-review
+#Process of choosing the article - The-recent-trends-in-cyber-security-A-review
+Topic - Cyber Security
+
 I was first drawn to red teaming because it was the first time I had ever heard about it. At first, I struggled to find any good articles with a JUFO rating on the topic. Then I tried searching for penetration testing, but it was also difficult to find relevant sources. Finding quality articles on penetration testing and red teaming was challenging in the beginning. Finally, I searched for “cybersecurity,” and the article Recent Trends in Cybersecurity: A Review came up, which had a JUFO rating of 1, as shown in the picture. The review article was published in 2022, which is quite new. The review article seemed interesting, well-organized, and included helpful figures to explain the concepts. That’s why I chose this review article to focus on. I have answered the 3 questions in bullet points below.
-Key areas that are being researched.
+
+#Key areas that are being researched.
+
 •	Classification of cyber attacks
 Cryptographic attacks, reconnaissance attacks, active/passive, phishing, malware and quantum related attacks.
 •	Cryptographic standards and algorithms 
