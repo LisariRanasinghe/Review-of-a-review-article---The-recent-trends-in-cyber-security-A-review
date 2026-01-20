@@ -25,23 +25,33 @@ Cryptographic attacks, reconnaissance attacks, active/passive, phishing, malware
 Symmetric and asymmetric algorithms
 
 •	Recent advancements in cryptography such as modified and hybrid encryption schemes, Identity-Based Encryption (IBE) and certificate-based encryption.
+
 •	Advanced key management schemes: variable length keys and distributed key generation.
+
 •	Quantum Cryptography 
+
 Explains regarding Quantum Key Distribution (QKD), BB84 and other quantum protocols and Impact of quantum computing on classical cryptography
+
 •	Security threats and challenges such as side-channel attacks, ransomware and hardware-based and implementation-level vulnerabilities.
 
 ## What’s widely agreed upon?
 
 •	Researchers agree that a single security solution is not sufficient. Therefore, they believe that cybersecurity must rely on a combination of cryptography, key management, frameworks and awareness is essential.
+
 •	Many studies show that quantum computing is a huge threat to classical cryptographic algorithms. 
+
 •	Key management is critical just as the encryption algorithm itself.
+
 •	Most researchers agree that the traditional cryptographic algorithms are becoming less secure over time due to increasing computer power and new attack techniques.
 
 ## What are the open questions?
 
 •	How can existing encryption algorithms remain effective in the future, especially with the development of quantum computing?
+
 •	How to develop advanced cryptographic algorithms that are resistant to new attack techniques such as quantum attacks?
+
 •	How can organizations keep their systems secure when attackers are developing new tools and techniques each and every day?
+
 •	How soon will quantum cryptography become practical and affordable in the real world?
 
 # References
